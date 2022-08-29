@@ -18,7 +18,7 @@ Performed data analysis on cryptocurrency data for the Advisory Services Team at
  
  ![dropNADF](https://github.com/frlinh/cryptocurrencies/blob/ab1c550e654abc055c1ae1e515cf101fd7d11d91/Resources/dropNADataframe.png)
 
- - Furthermore, the index column was removed, the 'unnamed' column was renamed to 'CryptoCode', and the 'CoinName' was dropped from the dataframe.
+ - Furthermore, the index column was removed, the 'unnamed' column was renamed to 'CryptoCode', and the 'CoinName' column was dropped from the dataframe.
  
  ![cleanedDF](https://github.com/frlinh/cryptocurrencies/blob/20b89b2d60d686ba752778c82b8b4d5fafa05040/Resources/cleanedwoCoinNameDataframe.png)
  
