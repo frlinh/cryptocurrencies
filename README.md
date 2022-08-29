@@ -23,7 +23,7 @@ Performed data analysis on cryptocurrency data for the Advisory Services Team at
  ![cleanedDF](https://github.com/frlinh/cryptocurrencies/blob/20b89b2d60d686ba752778c82b8b4d5fafa05040/Resources/cleanedwoCoinNameDataframe.png)
  
 ### 2) Reducing the Data Dimensions using PCA
-- Used 'get_dummies' to create new variables for text features on 'Algorithm' and 'ProofType'.
+- Used 'get_dummies' to create new variables for text features on 'Algorithm' and 'ProofType'
 - Used PCA to reduce the dimension to three principal components
 - Created a new dataframe with three principal components
 
@@ -35,7 +35,7 @@ Performed data analysis on cryptocurrency data for the Advisory Services Team at
 ![elbowCurve](https://github.com/frlinh/cryptocurrencies/blob/ab1c550e654abc055c1ae1e515cf101fd7d11d91/Resources/ElbowCurve.png)
 
 ### 4) Visualizing Cryptocurrencies Results
-- Created a 3D-Scatter plot with PCA data and clustered dataframe.
+- Created a 3D-Scatter plot with PCA data and clustered dataframe
 
 ![3D-Scatter](https://github.com/frlinh/cryptocurrencies/blob/ab1c550e654abc055c1ae1e515cf101fd7d11d91/Resources/3D-ScatterFig.png)
 
